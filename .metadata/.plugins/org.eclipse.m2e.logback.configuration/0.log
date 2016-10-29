@@ -1,0 +1,27 @@
+2016-10-29 00:37:47,680 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RestVotacao:RestVotacao:0.0.1-SNAPSHOT @ /Users/alexlima/Documents/ProjetosGitHub/RestauranteVotacao/pom.xml.
+2016-10-29 00:37:48,522 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.listavip:xcursoAluraSpringBoot:0.0.1-SNAPSHOT @ /Users/alexlima/Documents/ProjetosGitHub/xAluraSpringBoot/pom.xml.
+2016-10-29 00:37:50,035 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.enviadorEmail:xEmail:0.0.1-SNAPSHOT @ /Users/alexlima/Documents/ProjetosGitHub/xEmail/pom.xml.
+2016-10-29 00:37:56,561 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xEmail/src/main/java
+2016-10-29 00:37:56,563 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /xEmail/src/main/resources
+2016-10-29 00:37:56,563 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /xEmail/src/main/resources
+2016-10-29 00:37:56,564 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xEmail/src/test/java
+2016-10-29 00:37:57,049 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xAluraSpringBoot/src/main/java
+2016-10-29 00:37:57,049 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /xAluraSpringBoot/src/main/resources
+2016-10-29 00:37:57,050 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xAluraSpringBoot/src/test/java
+2016-10-29 00:37:57,050 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /xAluraSpringBoot/src/test/resources
+2016-10-29 00:37:57,799 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestauranteVotacao/src
+2016-10-29 00:37:57,799 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /RestauranteVotacao/src/test/java because it overlaps with /RestauranteVotacao/src
+2016-10-29 00:37:58,815 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 18 sec
+2016-10-29 00:38:07,401 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-29 00:38:07,420 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexlima/Documents/ProjetosGitHub/RestauranteVotacao/src/main/resources
+2016-10-29 00:38:07,423 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-29 00:38:07,435 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexlima/Documents/ProjetosGitHub/RestauranteVotacao/src/test/resources
+2016-10-29 00:38:13,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-29 00:38:13,598 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-29 00:38:13,754 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-29 00:38:13,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-29 00:38:13,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexlima/Documents/ProjetosGitHub/xEmail/src/test/resources
+2016-10-29 00:38:18,027 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-29 00:38:18,031 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-10-29 00:38:18,038 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-29 00:38:18,039 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

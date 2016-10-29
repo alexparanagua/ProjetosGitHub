@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="/Users/alexlima/.m2/repository/com/sun/faces/jsf-impl/2.2.2/jsf-impl-2.2.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/html_basic.tld" project="RestauranteVotacao"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/jsf_core.tld" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/mojarra_ext.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/mojarra_ext.tld" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/RestauranteVotacao/WebContent/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="RestauranteVotacao"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/Users/alexlima/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar"/>
+  <path value="/Users/alexlima/.m2/repository/org/primefaces/themes/start/1.0.10/start-1.0.10.jar"/>
+  <path value="/Users/alexlima/.m2/repository/com/sun/faces/jsf-api/2.2.2/jsf-api-2.2.2.jar"/>
+  <path value="/Users/alexlima/.m2/repository/org/primefaces/primefaces/5.3/primefaces-5.3.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-5.3.jar/meta-inf/faces-config.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-5.3.jar/meta-inf/primefaces-p.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-5.3.jar/meta-inf/primefaces-pm.taglib.xml" project="RestauranteVotacao"/>
+    </library>
+   </libraries>
+  </path>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification">
+   <linked-resource declaration="true" name="%1;%2;" path="%0"/>
+  </core>
+  <el>
+   <linked-el length="36" name="%1" offset="1390" path="%3"/>
+   <linked-el length="31" name="%1" offset="1298" path="%4"/>
+   <linked-el length="35" name="%1" offset="1169" path="%4"/>
+   <linked-el length="32" name="%1" offset="559" path="%4"/>
+   <linked-el length="37" name="%1" offset="2076" path="%3"/>
+   <linked-el length="31" name="%1" offset="603" path="%3"/>
+   <linked-el length="33" name="%1" offset="1378" path="%4"/>
+   <linked-el length="30" name="%1" offset="673" path="%4"/>
+   <linked-el length="35" name="%1" offset="494" path="%4"/>
+   <linked-el length="38" name="%1" offset="877" path="%4"/>
+   <linked-el length="41" name="%1" offset="780" path="%4"/>
+   <linked-el length="29" name="%1" offset="496" path="%3"/>
+   <linked-el length="28" name="%1" offset="1064" path="%4"/>
+   <linked-el length="36" name="%5" offset="1390" path="%3"/>
+   <linked-el length="31" name="%5" offset="1298" path="%4"/>
+   <linked-el length="35" name="%5" offset="1169" path="%4"/>
+   <linked-el length="14" name="%5" offset="1252" path="%3"/>
+   <linked-el length="13" name="%5" offset="1955" path="%3"/>
+   <linked-el length="12" name="%5" offset="2466" path="%3"/>
+   <linked-el length="37" name="%5" offset="2076" path="%3"/>
+   <linked-el length="31" name="%5" offset="603" path="%3"/>
+   <linked-el length="17" name="%5" offset="982" path="%3"/>
+   <linked-el length="41" name="%5" offset="780" path="%4"/>
+   <linked-el length="11" name="%5" offset="1165" path="%3"/>
+   <linked-el length="11" name="%5" offset="1869" path="%3"/>
+   <linked-el length="13" name="%5" offset="2637" path="%3"/>
+   <linked-el length="32" name="%5" offset="559" path="%4"/>
+   <linked-el length="7" name="%5" offset="955" path="%4"/>
+   <linked-el length="12" name="%5" offset="1080" path="%3"/>
+   <linked-el length="12" name="%5" offset="1784" path="%3"/>
+   <linked-el length="33" name="%5" offset="1378" path="%4"/>
+   <linked-el length="11" name="%5" offset="2551" path="%3"/>
+   <linked-el length="30" name="%5" offset="673" path="%4"/>
+   <linked-el length="35" name="%5" offset="494" path="%4"/>
+   <linked-el length="38" name="%5" offset="877" path="%4"/>
+   <linked-el length="29" name="%5" offset="496" path="%3"/>
+   <linked-el length="7" name="%5" offset="938" path="%4"/>
+   <linked-el length="28" name="%5" offset="1064" path="%4"/>
+   <linked-el length="11" name="%6" offset="1869" path="%3"/>
+   <linked-el length="13" name="%6" offset="2637" path="%3"/>
+   <linked-el length="12" name="%6" offset="1784" path="%3"/>
+   <linked-el length="11" name="%6" offset="2551" path="%3"/>
+   <linked-el length="13" name="%6" offset="1955" path="%3"/>
+   <linked-el length="12" name="%6" offset="2466" path="%3"/>
+   <linked-el length="11" name="%7" offset="1165" path="%3"/>
+   <linked-el length="12" name="%7" offset="1080" path="%3"/>
+   <linked-el length="14" name="%7" offset="1252" path="%3"/>
+   <linked-el length="17" name="%7" offset="982" path="%3"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/RestauranteVotacao/src/br/com/restVotacao/controller/VotoController.java" value="%1"/>
+  <alias path="br.com.restVotacao.controller.VotoController" value="%2"/>
+  <alias path="votoController" value="%5"/>
+  <alias
+   path="/RestauranteVotacao/src/br/com/restVotacao/model/VotoTotal.java" value="%6"/>
+  <alias path="/RestauranteVotacao/WebContent/index.xhtml" value="%4"/>
+  <alias path="/RestauranteVotacao/WebContent/detalhar.xhtml" value="%3"/>
+  <alias path="/RestauranteVotacao/WebContent/WEB-INF/faces-config.xml" value="%0"/>
+  <alias
+   path="/RestauranteVotacao/src/br/com/restVotacao/model/Voto.java" value="%7"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://primefaces.org/ui">
+   <prefix>p</prefix>
+  </uri>
+ </uris>
+</kb-project>
